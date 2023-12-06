@@ -1,0 +1,10 @@
+﻿  Building.cpp
+  Elevator.cpp
+  Floor.cpp
+  Move.cpp
+C:\Users\ishik\Desktop\EECS183\Final\Final\Move.cpp(101,23): warning C4018: '<': signed/unsigned mismatch
+  Person.cpp
+  test.cpp
+  Generating Code...
+C:\Users\ishik\Desktop\EECS183\Final\Final\Building.cpp(46): warning C4715: 'Building::tick': not all control paths return a value
+  Final.vcxproj -> C:\Users\ishik\Desktop\EECS183\Final\Debug\Final.exe
