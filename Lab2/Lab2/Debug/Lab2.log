@@ -1,0 +1,5 @@
+﻿  debug.cpp
+C:\Users\ishik\Desktop\EECS183\Lab2\Lab2\debug.cpp(25,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ishik\Desktop\EECS183\Lab2\Lab2\debug.cpp(26,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\ishik\Desktop\EECS183\Lab2\Lab2\debug.cpp(34,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Lab2.vcxproj -> C:\Users\ishik\Desktop\EECS183\Lab2\Debug\Lab2.exe
